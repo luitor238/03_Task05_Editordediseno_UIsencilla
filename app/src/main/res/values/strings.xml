@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task 05_Editordediseño_UIsencilla</string>
+    <string name="edit_message">Escribe aqui...</string>
+    <string name="aceptar">ACEPTAR</string>
+</resources>
